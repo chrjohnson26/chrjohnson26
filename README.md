@@ -7,6 +7,7 @@
 ```c
 typedef struct person {
   school;
+  pronouns;
   major;
   code;
   dev_tools;
@@ -14,6 +15,7 @@ typedef struct person {
 
 person christian;
 christian.school = Harvey Mudd College;
+christian.pronouns = he/him;
 christian.major = Computer Science & Mathematics;
 christian.code = Java, Python, C/C++, R, Assembly, Latex, SystemVerilog, Julia, RegEx;
 christian.dev_tools = VS Code, R Studio, Altera/ Intel Quartus Prime, SEGGER Embedded Studio, Git, GDB Debugger;
