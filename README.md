@@ -6,15 +6,15 @@
 
 
 ```c
-typedef struct person {
+typedef struct student {
   school;
   pronouns;
   major;
   code;
   dev_tools;
-} person;
+} student;
 
-person christian;
+student christian;
 christian.school = Harvey Mudd College;
 christian.pronouns = he/him;
 christian.major = Computer Science & Mathematics;
