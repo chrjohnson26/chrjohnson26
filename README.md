@@ -23,6 +23,5 @@ In my final year of undergrad at [Harvey Mudd](https://hms.harvard.edu) studying
 ## Some Social Media
 - I have a 300 day streak on several of the [LinkedIn](https://linkedin.com/in/chrjohnson26) games
 - Check out my 300 elo on [chess.com](https://www.chess.com/member/christianj5)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
+- etc.
 ---
