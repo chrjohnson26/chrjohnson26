@@ -3,7 +3,7 @@
 ### Some cool GIFs I found
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y4MXc2NjI2N2t1cjl6cnhhM3JoYjB1M2Y4anV3b2w1a2NmdWVhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RSpHeK6yW53dyfnEhy/giphy.gif" width="50">
+  <img src="https://i.giphy.com/RSpHeK6yW53dyfnEhy.gif" width="50">
 </div>
 
 ## About Me
