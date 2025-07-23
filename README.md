@@ -18,7 +18,7 @@
 </div>
 
 ## About Me
-In my final year of undergrad at [Harvey Mudd](https://hms.harvard.edu) studying Computer Science and Mathematics. This past summer I worked at Walmart integrating AI to existing workflows via MCP servers. Some of my favorite classes so far include Network Science, Algorithms, and Machine Learning. 
+In my final year of undergrad at [Harvey Mudd](https://hms.harvard.edu) studying Computer Science and Mathematics. This past summer I worked at Walmart, where I integrated AI into existing workflows by building MCP servers. Some of my favorite classes so far include Network Science, Algorithms, and Machine Learning. 
 
 ## Some Social Media
 - I have a 300 day streak on several of the [LinkedIn](https://linkedin.com/in/chrjohnson26) games
