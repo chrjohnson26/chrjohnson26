@@ -1,20 +1,8 @@
 ## Hey, I'm Christian! 
 
-### Some cool GIF(s) I found
+Cool gif:
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkZDRxajJkOXdzNXpqdjl0MmhreXFxc3RxMTBwbGRtNHV0b3VhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu1NaJdIvTfoFq/giphy.gif" width="50">
-
 </div>
 
 ## About Me
